@@ -11,7 +11,7 @@ var currentState,
 var groundLevel = 180;
 var score = 0;
 var highScore = 0;
-var g_jumpcount = 5;
+var g_jumpcount = 4;
 var states = {
   Splash: 0,
   Game: 1,
