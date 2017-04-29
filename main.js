@@ -149,7 +149,6 @@ function Hero() {
 
     var f = this.animation[this.frame];
     nolan[f].draw(renderingContext, 20, this.y);
-    console.log(this.y);
 
     renderingContext.restore();
   }
