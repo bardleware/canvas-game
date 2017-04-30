@@ -286,7 +286,7 @@ function render() {
       renderingContext.font = "50px Fascinate";
       renderingContext.fillStyle = "#0e0317";
       renderingContext.textAlign = "center";
-      renderingContext.fillText("Go!", canvas.width / 2, canvas.height / 2);
+      renderingContext.fillText("click to jump!", canvas.width / 2, canvas.height / 2);
     }
 
   }
